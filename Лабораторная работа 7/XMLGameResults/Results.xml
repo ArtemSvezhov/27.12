@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameResults>
+  <player id="1">
+    <name>Monster</name>
+    <score>250</score>
+	  <time>70</time>
+  </player>
+  <player id="2">
+    <name>Mila</name>
+    <score>150</score>
+	  <time>70</time>
+  </player>
+  <player id="3">
+    <name>Vova</name>
+    <score>200</score>
+	  <time>70</time>
+  </player>
+  <player id="4">
+    <name>Mouse</name>
+    <score>249</score>
+	  <time>70</time>
+  </player>
+  <player id="5">
+    <name>Petya</name>
+    <score>200</score>
+	  <time>70</time>
+  </player>
+  <player id="6">
+    <name>Bob</name>
+    <score>50</score>
+	  <time>70</time>
+  </player>
+  
+</gameResults>

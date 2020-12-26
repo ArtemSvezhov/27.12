@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLGameResults", "XMLGameResults\XMLGameResults.csproj", "{F4AC445A-F777-4205-90B6-969CF87EF48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfig", "AppConfig\AppConfig.csproj", "{1EFBFD8E-DD6F-4676-92CE-F77E8E783E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AC445A-F777-4205-90B6-969CF87EF48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AC445A-F777-4205-90B6-969CF87EF48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AC445A-F777-4205-90B6-969CF87EF48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AC445A-F777-4205-90B6-969CF87EF48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFBFD8E-DD6F-4676-92CE-F77E8E783E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFBFD8E-DD6F-4676-92CE-F77E8E783E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFBFD8E-DD6F-4676-92CE-F77E8E783E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFBFD8E-DD6F-4676-92CE-F77E8E783E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96810182-E849-4E2E-A06B-55F261C56DAA}
+	EndGlobalSection
+EndGlobal

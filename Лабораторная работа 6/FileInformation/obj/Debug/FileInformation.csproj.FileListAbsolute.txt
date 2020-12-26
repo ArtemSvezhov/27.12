@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\bin\Debug\FileInformation.exe.config
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\bin\Debug\FileInformation.exe
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\bin\Debug\FileInformation.pdb
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.mainForm.resources
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.Properties.Resources.resources
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.exe
+C:\Users\User\Desktop\1 задание файлы\Лабораторная\FileInformation\obj\Debug\FileInformation.pdb

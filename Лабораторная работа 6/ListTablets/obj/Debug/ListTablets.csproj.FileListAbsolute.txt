@@ -1,0 +1,20 @@
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.exe.config
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.exe
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.pdb
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csprojAssemblyReference.cache
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.Form1.resources
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.Properties.Resources.resources
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csproj.GenerateResource.cache
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.exe
+C:\Users\Алексей\Documents\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.pdb
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.exe.config
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.exe
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\bin\Debug\ListTablets.pdb
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csprojAssemblyReference.cache
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.Form1.resources
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.Properties.Resources.resources
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csproj.GenerateResource.cache
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.csproj.CoreCompileInputs.cache
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.exe
+A:\Учебная практика\25-26.12\практика_ТРПО\Lab6\ListTablets\obj\Debug\ListTablets.pdb
